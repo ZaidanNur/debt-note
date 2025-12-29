@@ -1,0 +1,3 @@
+module.exports=[36278,a=>{"use strict";var b=a.i(90031);function c({children:a}){return(0,b.jsx)("div",{className:"min-h-screen flex items-center justify-center bg-gray-50 py-12 px-4 sm:px-6 lg:px-8",children:(0,b.jsx)("div",{className:"max-w-md w-full space-y-8 bg-white p-8 rounded-2xl shadow-xl border border-gray-100",children:a})})}a.s(["default",()=>c])}];
+
+//# sourceMappingURL=debt-note_src_app_auth_layout_tsx_7be9443a._.js.map

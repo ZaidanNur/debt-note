@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 46, "column": 0}, "map": {"version":3,"sources":["file:///C:/laragon/www/debt-note/src/app/api/spaces/%5Bid%5D/members/route.ts"],"sourcesContent":["import { NextResponse } from 'next/server';\r\n\r\nexport async function POST(request: Request) {\r\n    const body = await request.json();\r\n    // Mock add member\r\n    return NextResponse.json({\r\n        id: 'm_' + Math.random().toString(36).substr(2, 5),\r\n        name: body.name\r\n    }, { status: 201 });\r\n}\r\n"],"names":[],"mappings":";;;;AAAA;;AAEO,eAAe,KAAK,OAAgB;IACvC,MAAM,OAAO,MAAM,QAAQ,IAAI;IAC/B,kBAAkB;IAClB,OAAO,gKAAY,CAAC,IAAI,CAAC;QACrB,IAAI,OAAO,KAAK,MAAM,GAAG,QAAQ,CAAC,IAAI,MAAM,CAAC,GAAG;QAChD,MAAM,KAAK,IAAI;IACnB,GAAG;QAAE,QAAQ;IAAI;AACrB"}}]
+}

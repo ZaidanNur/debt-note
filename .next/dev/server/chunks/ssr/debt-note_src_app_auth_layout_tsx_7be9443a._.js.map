@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/laragon/www/debt-note/src/app/auth/layout.tsx"],"sourcesContent":["export default function AuthLayout({\r\n    children,\r\n}: {\r\n    children: React.ReactNode;\r\n}) {\r\n    return (\r\n        <div className=\"min-h-screen flex items-center justify-center bg-gray-50 py-12 px-4 sm:px-6 lg:px-8\">\r\n            <div className=\"max-w-md w-full space-y-8 bg-white p-8 rounded-2xl shadow-xl border border-gray-100\">\r\n                {children}\r\n            </div>\r\n        </div>\r\n    );\r\n}\r\n"],"names":[],"mappings":";;;;;;AAAe,SAAS,WAAW,EAC/B,QAAQ,EAGX;IACG,qBACI,8PAAC;QAAI,WAAU;kBACX,cAAA,8PAAC;YAAI,WAAU;sBACV;;;;;;;;;;;AAIjB"}}]
+}
