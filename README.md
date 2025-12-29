@@ -2,6 +2,12 @@
 
 Aplikasi frontend untuk pencatatan hutang antar teman (Debt Note), dibangun menggunakan Next.js 15, Tailwind CSS, dan TypeScript.
 
+### Mock Credentials
+
+Gunakan akun berikut untuk login:
+- **Email**: `user@example.com`
+- **Password**: `password`
+
 ## Fitur Utama
 
 - **Authentication**: Login & Register (Mock API).
